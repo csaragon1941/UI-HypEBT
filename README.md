@@ -1,2 +1,3 @@
 # UI-HypEBT
-This is the User Interface of a HypotheticalEBT Digital Wallet App.
+This is the User Interface of a Digital Wallet App.
+Code Currently Under Construction, Wireframe avaiable.
